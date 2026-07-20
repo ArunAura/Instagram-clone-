@@ -113,3 +113,19 @@ input{
     gap: 20px;
     color: #8e8e8e;
 }
+.meta-logo{
+    width: 58px;
+    height: auto;
+    align-items: center;
+}
+.see-moments{
+    color: white;
+    font-size:50px;
+    margin-bottom:0px;
+    
+}
+.close-friends{
+    color: white;
+    font-size:50px;
+    margin-top:0px;
+}
